@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Importing from Excel", "Importing from Excel\Importing from Excel.dtproj", "{53A7A53D-DEDA-4B7D-91A8-AB9B0A26522A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53A7A53D-DEDA-4B7D-91A8-AB9B0A26522A}.Development|Default.ActiveCfg = Development
+		{53A7A53D-DEDA-4B7D-91A8-AB9B0A26522A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5A5E25C-BD8F-47AB-8870-FE0694D355E2}
+	EndGlobalSection
+EndGlobal
